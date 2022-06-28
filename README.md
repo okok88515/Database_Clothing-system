@@ -1,5 +1,9 @@
 # 服飾店管理系統
 
+![image](https://user-images.githubusercontent.com/71677948/176170862-d027511a-4237-4406-85e4-29d14e648f51.png)
+
+![資料庫期末正規化 (3)](https://user-images.githubusercontent.com/71677948/176170704-27b33a15-1061-4f98-84d2-75fe7ce903a1.png)
+
 ![image](https://user-images.githubusercontent.com/71677948/174612212-ab442c96-d587-4969-955e-ed4b99f7e537.png)
 
 ![image](https://user-images.githubusercontent.com/71677948/174612256-03e2b431-9db4-4c00-bf6d-3ef964a09f30.png)
